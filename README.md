@@ -1,6 +1,4 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
-
-### DATE: 
+# Ex.No.  SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -46,9 +44,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/prasannavenkat01/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150702500/fe6483bb-5aa7-487b-a249-b1c6e5dab0ce)
+![image](https://github.com/prasannavenkat01/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150702500/823b6e1f-f359-483f-8a88-2b5545a42e99)
+![image](https://github.com/prasannavenkat01/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150702500/2d4d6d9d-58d4-4475-8f15-7e3987e681b5)
 
-### Name:
-### Register Number:
+### Name: RAGUNATH R
+### Register Number: 212222240081
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
